@@ -1,8 +1,72 @@
-# React + Vite
+# Apple iPhone 15 Pro Website Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a clone of Apple's iPhone 15 Pro website, built using **React.js** and **TailwindCSS**. It showcases advanced animations and 3D model rendering techniques, using GSAP (Greensock Animations) and Three.js to provide an immersive user experience.
 
-Currently, two official plugins are available:
+## ⚙️ Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React.js**
+- **Three.js**
+- **React Three Fiber**
+- **React Three Drei**
+- **GSAP (Greensock)**
+- **Vite**
+- **Tailwind CSS**
+
+## 🔋 Features
+
+### 👉 Beautiful Subtle Smooth Animations using GSAP
+
+Enhance the user experience with seamless and captivating animations powered by GSAP, bringing life to the website.
+
+### 👉 3D Model Rendering with Different Colors and Sizes
+
+Explore the iPhone 15 Pro from every angle with dynamic 3D rendering, offering various color and size options to replicate the real product experience.
+
+### 👉 Custom Video Carousel (made with GSAP)
+
+Engage users with a unique and interactive video carousel developed using GSAP, providing a personalized and interactive browsing experience.
+
+### 👉 Completely Responsive
+
+Enjoy consistent access and optimal viewing on any device with a fully responsive design that adapts to different screen sizes.
+
+### 👉 Code Architecture and Reusability
+
+The project is designed with a focus on clean code architecture and reusability, making it easy to maintain and extend.
+
+## 🤸 Quick Start
+
+Follow these steps to set up the project locally on your machine.
+
+### Prerequisites
+
+Make sure you have the following installed on your machine:
+
+- **Git**
+- **Node.js**
+- **npm (Node Package Manager)**
+
+### Cloning the Repository
+
+```bash
+git clone https://github.com/JavaScript-Mastery-Pro/iphone-doc.git
+cd iphone-doc
+```
+
+### Installation
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+### Running the Project
+
+To start the development server, run:
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
