@@ -1,5 +1,8 @@
 # Apple iPhone 15 Pro Website Clone
 
+![image](https://github.com/user-attachments/assets/47ee21bb-5e91-4834-90b3-2b6fc5d6e643)
+
+
 This project is a clone of Apple's iPhone 15 Pro website, built using **React.js** and **TailwindCSS**. It showcases advanced animations and 3D model rendering techniques, using GSAP (Greensock Animations) and Three.js to provide an immersive user experience.
 
 ## ⚙️ Tech Stack
